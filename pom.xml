@@ -60,10 +60,10 @@
 <!--    <module>collecting-parameter</module>-->
 <!--    <module>monitor</module>-->
 <!--    <module>builder</module>-->
-<!--    <module>factory-method</module>-->
 <!--    <module>prototype</module>-->
     <module>singleton</module>
     <module>factory</module>
+    <module>factory-method</module>
     <!--    <module>adapter</module>-->
 <!--    <module>bridge</module>-->
 <!--    <module>composite</module>-->
