@@ -56,7 +56,6 @@
     <sonar.projectName>Java Design Patterns</sonar.projectName>
   </properties>
   <modules>
-<!--    <module>abstract-factory</module>-->
 <!--    <module>collecting-parameter</module>-->
 <!--    <module>monitor</module>-->
 <!--    <module>builder</module>-->
@@ -64,6 +63,7 @@
     <module>singleton</module>
     <module>factory</module>
     <module>factory-method</module>
+    <module>abstract-factory</module>
     <!--    <module>adapter</module>-->
 <!--    <module>bridge</module>-->
 <!--    <module>composite</module>-->
