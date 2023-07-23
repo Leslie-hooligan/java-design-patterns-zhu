@@ -58,13 +58,13 @@
   <modules>
 <!--    <module>collecting-parameter</module>-->
 <!--    <module>monitor</module>-->
-<!--    <module>builder</module>-->
 <!--    <module>prototype</module>-->
     <module>singleton</module>
     <module>factory</module>
     <module>factory-method</module>
     <module>abstract-factory</module>
-    <!--    <module>adapter</module>-->
+      <module>builder</module>
+      <!--    <module>adapter</module>-->
 <!--    <module>bridge</module>-->
 <!--    <module>composite</module>-->
 <!--    <module>dao</module>-->
