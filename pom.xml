@@ -64,7 +64,8 @@
     <module>factory-method</module>
     <module>abstract-factory</module>
       <module>builder</module>
-      <!--    <module>adapter</module>-->
+    <module>adapter</module>
+    <!--    <module>adapter</module>-->
 <!--    <module>bridge</module>-->
 <!--    <module>composite</module>-->
 <!--    <module>dao</module>-->
