@@ -73,6 +73,7 @@
         <module>proxy</module>
         <module>template-method</module>
         <module>command</module>
+        <module>visitor</module>
         <!--    <module>chain-of-responsibility</module>-->
         <!--    <module>interpreter</module>-->
         <!--    <module>iterator</module>-->
@@ -83,7 +84,6 @@
         <!--    <module>state</module>-->
         <!--    <module>strategy</module>-->
         <!--    <module>version-number</module>-->
-        <!--    <module>visitor</module>-->
         <!--    <module>double-checked-locking</module>-->
         <!--    <module>servant</module>-->
         <!--    <module>service-locator</module>-->
