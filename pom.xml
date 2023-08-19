@@ -73,6 +73,7 @@
         <module>command</module>
         <module>visitor</module>
         <module>iterator</module>
+        <module>observer</module>
         <!--    <module>collecting-parameter</module>-->
         <!--    <module>monitor</module>-->
         <!--    <module>chain-of-responsibility</module>-->
@@ -80,7 +81,6 @@
         <!--    <module>mediator</module>-->
         <!--    <module>memento</module>-->
         <!--    <module>model-view-presenter</module>-->
-        <!--    <module>observer</module>-->
         <!--    <module>state</module>-->
         <!--    <module>strategy</module>-->
         <!--    <module>version-number</module>-->
