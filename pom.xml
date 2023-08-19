@@ -59,8 +59,6 @@
         <sonar.projectName>Java Design Patterns</sonar.projectName>
     </properties>
     <modules>
-        <!--    <module>collecting-parameter</module>-->
-        <!--    <module>monitor</module>-->
         <module>singleton</module>
         <module>factory</module>
         <module>factory-method</module>
@@ -74,9 +72,11 @@
         <module>template-method</module>
         <module>command</module>
         <module>visitor</module>
+        <module>iterator</module>
+        <!--    <module>collecting-parameter</module>-->
+        <!--    <module>monitor</module>-->
         <!--    <module>chain-of-responsibility</module>-->
         <!--    <module>interpreter</module>-->
-        <!--    <module>iterator</module>-->
         <!--    <module>mediator</module>-->
         <!--    <module>memento</module>-->
         <!--    <module>model-view-presenter</module>-->
