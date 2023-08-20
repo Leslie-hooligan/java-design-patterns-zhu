@@ -75,13 +75,12 @@
         <module>iterator</module>
         <module>observer</module>
         <module>mediator</module>
+        <module>state</module>
         <!--    <module>collecting-parameter</module>-->
         <!--    <module>monitor</module>-->
         <!--    <module>chain-of-responsibility</module>-->
         <!--    <module>interpreter</module>-->
-        <!--    <module>memento</module>-->
         <!--    <module>model-view-presenter</module>-->
-        <!--    <module>state</module>-->
         <!--    <module>strategy</module>-->
         <!--    <module>version-number</module>-->
         <!--    <module>double-checked-locking</module>-->
