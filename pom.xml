@@ -74,11 +74,11 @@
         <module>visitor</module>
         <module>iterator</module>
         <module>observer</module>
+        <module>mediator</module>
         <!--    <module>collecting-parameter</module>-->
         <!--    <module>monitor</module>-->
         <!--    <module>chain-of-responsibility</module>-->
         <!--    <module>interpreter</module>-->
-        <!--    <module>mediator</module>-->
         <!--    <module>memento</module>-->
         <!--    <module>model-view-presenter</module>-->
         <!--    <module>state</module>-->
